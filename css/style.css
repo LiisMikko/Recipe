@@ -1,0 +1,30 @@
+body {
+
+    background-color: khaki;
+}
+
+.heading {margin-left: 580px; color: darkolivegreen; font-family: 'Fredoka One', cursive;}
+
+.introduction {margin-left: 34rem;color: forestgreen;}
+
+.ingredients{padding-bottom: 30px; margin-right: 10rem; 
+}
+
+
+.ingredients-table{border:solid black 1px;
+    margin-left: 35rem; color: forestgreen;
+
+}
+
+.picture {margin: auto 0;
+padding-bottom: 30px;
+margin-left: 32rem;}
+
+.instructions {
+    border: solid black 1px;margin-left: 18rem;width: 50%; color: forestgreen;
+}
+
+.instructions ol {
+    margin: 0 auto;
+    width: 30%;
+}
